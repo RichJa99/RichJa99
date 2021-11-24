@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RichJa99
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data 
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me...
 
 <!---
 RichJa99/RichJa99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
